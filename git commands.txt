@@ -1,0 +1,4 @@
+git clone https://github.com/shweta-techjini/GitSessions.git
+git config —list
+git config --global user.name “Dhruv Singh”
+git config --global user.email dhruv@techjini.com
