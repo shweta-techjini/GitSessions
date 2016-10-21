@@ -5,3 +5,4 @@ git config --global user.email dhruv@techjini.com
 
 git add <file-name1> <file-name2>
 git commit -m “message”
+git commit -am “message”
