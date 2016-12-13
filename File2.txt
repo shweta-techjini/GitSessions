@@ -1,1 +1,5 @@
 Second file commit for GIT session
+
+This is how we do file level checkout
+
+Git sessions for checkout commands
