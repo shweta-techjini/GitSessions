@@ -1,0 +1,2 @@
+Let’s try to resolve conflicts
+Sample File for Git

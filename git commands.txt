@@ -8,3 +8,6 @@ git commit -m “message”
 git commit -am “message”
 
 git log //history of a file
+
+git merger <branch name> 
+git rebase <branch name>

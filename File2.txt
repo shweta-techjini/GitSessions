@@ -1,1 +1,2 @@
 Second file commit for GIT session
+We have learnt basics of git
