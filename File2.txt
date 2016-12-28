@@ -1,2 +1,4 @@
 Second file commit for GIT session
 We have learnt basics of git
+
+Let’s try to resolve conflicts
